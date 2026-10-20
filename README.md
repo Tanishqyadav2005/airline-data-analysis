@@ -31,7 +31,7 @@ python main.py
 
 ## Run Dashboard
 
-streamlit run dashboard/app.py
+streamlit run dashboard/app.py.....
 
 ## Project Structure
 
